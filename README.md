@@ -1,4 +1,3 @@
-```markdown
 # Multimodal Conversational Agent
 
 A chat-based agent utilizing the Mistral 7B Large Language Model (LLM), Langchain, Ollama, and Streamlit to answer questions about files through Retrieval-Augmented Generation (RAG).
